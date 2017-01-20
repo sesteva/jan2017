@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "myflights",
+    "style": "sass",
+    "cssmodules": false,
+    "postcss": true,
+    "generatedWithVersion": 4
+  }
+}
