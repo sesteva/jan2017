@@ -23,6 +23,4 @@ And these are your tasks...
 
     The image below shows how to group the activities and an example of how to represent the FLY type activities.
 
-
-
-![alt text](/mock.tigg) "Logo Title Text 1")
+![Example](https://github.com/sesteva/jan2017/blob/master/mock.tiff?raw=true) "Example")
