@@ -23,8 +23,7 @@ And these are your tasks...
 
     The image below shows how to group the activities and an example of how to represent the FLY type activities.
 
-![Example](/mock.png) "Example")
-![Example](https://github.com/sesteva/jan2017/blob/master/mock.png) "Example")
+![Example](/mock.png))
 
 
 
