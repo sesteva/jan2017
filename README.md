@@ -22,6 +22,8 @@ And these are your tasks...
         E - add a select or checkbox or any form type you want, so the user can filter the list by activity type. 
 
     The image below shows how to group the activities and an example of how to represent the FLY type activities.
+    
+    note: There is no need to render/display the calendar.
 
 ![Example](/mock.png))
 
