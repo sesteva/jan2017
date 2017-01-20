@@ -21,9 +21,9 @@ And these are your tasks...
         D - the list needs to have separators per day, so basically the user can see the group of activities per day
         E - add a select or checkbox or any form type you want, so the user can filter the list by activity type. 
 
-    The image below shows how to group the activities and an example of how to represent the FLY type activities.
-    
-    note: There is no need to render/display the calendar.
+The image below shows how to group the activities and an example of how to represent the FLY type activities.
+
+**note: There is no need to render/display the calendar.**
 
 ![Example](/mock.png))
 
